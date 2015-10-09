@@ -10,3 +10,4 @@ C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.DB\bin\Debug\Entity
 C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.DB\bin\Debug\EntityFramework.SqlServerCompact.xml
 C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.DB\obj\Debug\RestFullKitap.DB.dll
 C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.DB\obj\Debug\RestFullKitap.DB.pdb
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.DB\obj\Debug\RestFullKitap.DB.csprojResolveAssemblyReference.cache
