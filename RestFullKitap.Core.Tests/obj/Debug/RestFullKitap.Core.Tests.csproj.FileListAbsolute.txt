@@ -1,0 +1,11 @@
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\RestFullKitap.Core.Tests.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\RestFullKitap.Core.Tests.pdb
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\RestFullKitap.Core.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\RestFullKitap.DB.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\EntityFramework.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\RestFullKitap.Core.pdb
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\RestFullKitap.DB.pdb
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\bin\Debug\EntityFramework.xml
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\obj\Debug\RestFullKitap.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\obj\Debug\RestFullKitap.Core.Tests.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core.Tests\obj\Debug\RestFullKitap.Core.Tests.pdb

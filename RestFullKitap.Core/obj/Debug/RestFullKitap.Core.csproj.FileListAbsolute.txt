@@ -1,0 +1,15 @@
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\RestFullKitap.Core.dll.config
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\RestFullKitap.Core.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\RestFullKitap.Core.pdb
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\EntityFramework.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\RestFullKitap.DB.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\RestFullKitap.DB.pdb
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\EntityFramework.xml
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\obj\Debug\RestFullKitap.Core.csprojResolveAssemblyReference.cache
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\obj\Debug\RestFullKitap.Core.dll
+C:\Users\michel\Documents\GitHub\RestFullKitap\RestFullKitap.Core\obj\Debug\RestFullKitap.Core.pdb
