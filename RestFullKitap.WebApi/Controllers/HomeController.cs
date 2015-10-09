@@ -1,18 +1,23 @@
-﻿using System;
+﻿using RestFullKitap.Core.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web.Http;
 
 namespace RestFullKitap.WebApi.Controllers
 {
     public class HomeController : ApiController
     {
-        public HttpResponseMessage GetTeste()
+        public async Task<HttpResponseMessage> GetTeste()
         {
-             HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.OK, "Holla michel");
-             return response;
+            var serviceBuscaDeCategorias = new BuscarCategoriasService();
+            var categorias = await serviceBuscaDeCategorias.PesquisarCategorias();
+
+            HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.OK, categorias);
+            return response;
         }
     }
 }
