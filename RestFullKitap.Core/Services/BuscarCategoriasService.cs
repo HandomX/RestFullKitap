@@ -35,5 +35,22 @@ namespace RestFullKitap.Core.Services
 
             return categoriaModels;
         }
+
+        public List<CategoriaModel> PesquisarCategoriasTeste()
+        {
+            var categorias = _KitapDB.Categorias.ToList<Categoria>();
+
+            var categoriaModels = new List<CategoriaModel>();
+
+            foreach (var categoria in categorias)
+            {
+                var categoriaAux = new CategoriaModel();
+                categoriaAux.Id = categoria.Id;
+                categoriaAux.Nome = categoria.Nome;
+                categoriaModels.Add(categoriaAux);
+            }
+
+            return categoriaModels;
+        }
     }
 }

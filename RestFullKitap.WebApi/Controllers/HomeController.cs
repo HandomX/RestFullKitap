@@ -11,10 +11,10 @@ namespace RestFullKitap.WebApi.Controllers
 {
     public class HomeController : ApiController
     {
-        public async Task<HttpResponseMessage> GetTeste()
+        public HttpResponseMessage GetTeste()
         {
             var serviceBuscaDeCategorias = new BuscarCategoriasService();
-            var categorias = await serviceBuscaDeCategorias.PesquisarCategorias();
+            var categorias = serviceBuscaDeCategorias.PesquisarCategoriasTeste();
 
             HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.OK, categorias);
             return response;
